@@ -1,0 +1,64 @@
+{
+  "Ram": {
+    "Anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "Nickname": "Ramchi",
+    "Pictures": {
+      "1": "https://media.discordapp.net/attachments/472313197836107780/546224984809275398/ximmTo0.png",
+      "2": "https://media.discordapp.net/attachments/472313197836107780/607042356658831390/L1fwcto.png",
+      "3": "https://media.discordapp.net/attachments/472313197836107780/571867766840360982/cfWKXG5.png",
+      "4": "https://media.discordapp.net/attachments/472313197836107780/532689393014538240/8f1t6Zb.png"
+    },
+    "Claim_Number": 21,
+    "Like_Number": 6,
+    "Kakera_Worth": 959,
+    "Gender": "female"
+  },
+  "Aqua": {
+    "Anime": "Kono Subarashii Sekai ni Shukufuku\nwo!",
+    "Nickname": "Damegami (+20)",
+    "Pictures": {
+      "1": "https://media.discordapp.net/attachments/472313197836107780/532687037757784096/VGmEwqj.png",
+      "2": "https://media.discordapp.net/attachments/472313197836107780/553732296532819978/yb6Dzms.png",
+      "3": "https://media.discordapp.net/attachments/472313197836107780/545434222761082890/WtiwLlU.png",
+      "4": "https://media.discordapp.net/attachments/472313197836107780/545434238787256332/144FdXs.png",
+      "5": "https://media.discordapp.net/attachments/472313197836107780/582740592065249280/sFv3peI.png",
+      "6": "https://media.discordapp.net/attachments/472313197836107780/545434263546232845/2KlsHmK.png",
+      "7": "https://media.discordapp.net/attachments/472313197836107780/545434277383503893/zLARQOC.png"
+    },
+    "Claim_Number": 9,
+    "Like_Number": 4,
+    "Kakera_Worth": 1023,
+    "Gender": "female"
+  },
+  "Rem": {
+    "Anime": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "Nickname": "Remrin",
+    "Pictures": {
+      "1": "https://media.discordapp.net/attachments/472313197836107780/546200089580797964/gxAtYAt.png",
+      "2": "https://media.discordapp.net/attachments/472313197836107780/571845018201882624/6o1h52o.png",
+      "3": "https://media.discordapp.net/attachments/472313197836107780/571844981912764437/akg083Y.png",
+      "4": "https://media.discordapp.net/attachments/472313197836107780/571844993292173332/z3t8UlC.png",
+      "5": "https://imgur.com/J7aspQh.gif"
+    },
+    "Claim_Number": 2,
+    "Like_Number": 2,
+    "Kakera_Worth": 1071,
+    "Gender": "female"
+  },
+  "Shiro": {
+    "Anime": "No Game No Life",
+    "Nickname": "Queen of Imanity",
+    "Pictures": {
+      "1": "https://imgur.com/Hav52QN.gif.gif",
+      "2": "https://imgur.com/PXmG5PH.gif",
+      "3": "https://media.discordapp.net/attachments/472313197836107780/633564091192967169/6ryirLU.png",
+      "4": "https://media.discordapp.net/attachments/472313197836107780/607071090904137729/N9KGFbW.png",
+      "5": "https://media.discordapp.net/attachments/472313197836107780/607071060969521171/iFmnljD.png",
+      "6": "https://media.discordapp.net/attachments/472313197836107780/583470513632968726/WKOjIIb.png"
+    },
+    "Claim_Number": 14,
+    "Like_Number": 8,
+    "Kakera_Worth": 982,
+    "Gender": "female"
+  }
+}
